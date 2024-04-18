@@ -1,0 +1,12 @@
+Email : classvisionAdmin@gmail.com
+Password : classVision@Admin
+Usertype : Admin
+
+Email-id : otojenekikorbi@gmail.com
+Password : >a6H6X@kTYVg
+Usertype : Faculty
+
+Email-id : abhiruppal28@kgpian.iitkgp.ac.in
+Password : Qj2V3%>rB:o>
+Usertype : Student
+
